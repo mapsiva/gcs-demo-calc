@@ -3,3 +3,6 @@ def somar (a: float, b: float) -> float:
 
 def subtrair (a: float, b: float) -> float:
     return a - b
+
+def multiplicar (a: float, b: float) -> float:
+    return a * b
